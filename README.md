@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @syedaliwaqar12
 - 👀 I’m interested in Machin Learning and Artificial Intelligence
 - 🌱 I’m currently learning competitive programming and hard coding (Python, C++, Java, C#, JavaScript)
-- 💞️ I’m looking to collaborate on all type of projecs 
+- 💞️ I’m looking to collaborate on all type of projects 
 - 📫 How to reach me on my profile and website
 
 <!---
